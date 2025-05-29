@@ -1,6 +1,6 @@
 # Terms of Use
 
-**Effective Date: v0.9.6**
+**Effective Date: v0.9.8**
 
 By using Whispero, you agree to the following terms:
 

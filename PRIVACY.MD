@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective Date: v0.9.6**
+**Effective Date: v0.9.8**
 
 Whispero is an open source, privacy-first application. We are committed to protecting your privacy and ensuring your data stays on your device.
 

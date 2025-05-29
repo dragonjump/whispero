@@ -1,6 +1,6 @@
 # Cookies Policy
 
-**Effective Date: v0.9.6**
+**Effective Date: v0.9.8**
 
 Whispero does not use cookies or any similar tracking technologies.
 
